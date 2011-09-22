@@ -1034,3 +1034,7 @@ code .il { color: #40a070 } /* Literal.Number.Integer.Long */
   width: 180px;
   color: #666;
 }
+
+.hidden {
+  display: none;
+}
